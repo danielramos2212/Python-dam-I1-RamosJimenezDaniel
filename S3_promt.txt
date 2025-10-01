@@ -1,2 +1,9 @@
 creame un codigo en el cual se le pida por pantalla el nombre y el año de nacimiento, despues se calcule la edad y se clasificque su tramo de edad con la siguiente direcion(<18,18-65,>65).
 ten en cuenta el manejo del erro por si no se inserta ningun numero. comenta tambien el codigo
+
+generame un codigo en el cual se pidan tres numeros por pantalla luego se muestre la suma de los tre, la media y el numero mayor.
+ intenta que cuando se muestren se vea bonito
+
+que significa el 2f en el string
+
+añademe tambien otro apartado que compruebe si los numeros ingresados son pares o impares, que se muestre de manera individual
