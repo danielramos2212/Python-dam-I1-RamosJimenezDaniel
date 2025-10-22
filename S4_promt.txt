@@ -1,0 +1,29 @@
+----------lista_numeros.py----------------------------
+Crea un programa que pida al usuario por pantalla y de manera limpia 
+ 5 numeros separados por comas, el rpogama tiene luego que convertirlos 
+ en floats, calcuar la suma , media y maximo de dichos numeros y mostrala
+  tambien por pantalla. Ademas tiene que detectar los duplicadso y que 
+  diga cuantas veces esta repetido
+
+Explicame comentandolo en el codigo para que sirve el.strip()
+
+añade tambien una manera para que compruebe que hemos introducido los numeros de una 
+manera correcata que tiene que ser pirmero el numero y luego una coma
+
+añade tambien cual es el nuero mas pequeño osea el minimo.
+
+-----------temperaturas.py-------------------------
+haz un codigo que le pida al usuario por pantalla que ingrese la temperatura  de su ciudad 
+en grados kelvins y luego transformalos en farenheit
+
+ademas idnica si es una temperatura calurosa, fria o esta bien 
+tambien haz que las muestre en grados celisus
+
+
+
+
+
+
+----------pirmo.py---------------------------------
+generame un codigo que pida al usuario un mnumero y 
+compruebe si es un numero pirmo
